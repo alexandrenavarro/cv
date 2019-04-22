@@ -1,0 +1,58 @@
+= Curriculum Vitae
+Paulo Jerônimo <pj@paulojeronimo.com>
+{localdatetime}
+:toc2:
+:toclevels: 2
+:icons: font
+:iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:attribute-missing: warn
+//:case-sensitive-attrs:
+
+include::../uris.adoc[]
+include::../definitions.adoc[]
+
+:leveloffset: +1
+
+ifdef::backend-html5[]
+[NOTE]
+====
+Faça o download da link:cv.pdf[versão impressa (em PDF)] ({published-cv}/cv.pdf). +
+Você também pode fazer o download da link:cv.txt[versao texto (TXT)] ({published-cv}/cv.txt).
+
+Este currículo é escrito no formato {AsciiDoc}.
+Seu código fonte está disponível em <<cv,cv repository>> on {my-GitHub-account}.
+Se você está buscando uma versão em deste currículo escrita no formato https://en.wikipedia.org/wiki/Microsoft_Word[Microsoft Word]: [red]#Lamento, eu não o utilizo!#
+
+====
+endif::[]
+
+include::detalhes-pessoais/index.adoc[]
+
+//<<<
+include::experiencia-profissional/index.adoc[]
+
+//<<<
+include::escritos-tecnicos/index.adoc[]
+
+//<<<
+include::conferencias-e-apresentacoes/index.adoc[]
+
+//<<<
+include::educacao/index.adoc[]
+
+//<<<
+include::habilidades-tecnicas/index.adoc[]
+
+//<<<
+include::certificacoes/index.adoc[]
+
+//<<<
+include::repositorios-github/index.adoc[]
+
+:leveloffset: -1
