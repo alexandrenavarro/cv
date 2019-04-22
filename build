@@ -12,19 +12,30 @@ config=build.conf
 [ -f "$BASE_DIR"/$config ] || config=$config.sample
 source "$BASE_DIR"/$config
 
+check_tools() {
+  local tools="$@"
+  local goahead=true
+  for tool in $tools
+  do
+    which $tool &> /dev/null || {
+      echo "ERROR: $tool wasn't found in PATH!"
+      goahead=false
+    }
+  done
+  $goahead
+}
+
 # called automatically when you invoke this script
 check_prerequisites() {
-  which asciidoctor > /dev/null || { echo "ERROR: install asciidoctor first!"; exit 1; }
-  which w3m > /dev/null || { echo "ERROR: install w3m first!"; exit 1; }
-  which lynx > /dev/null || { echo "ERROR: install lynx first!"; exit 1; }
-
+  check_tools asciidoctor w3m lynx || exit 1
+  
   if $generate_pdf
   then
     if $use_fopub
     then
       [ -x "$fopub" ] || { echo "ERROR: can't execute $fopub!"; exit 1; }
     else
-      which asciidoctor-pdf > /dev/null || { echo "ERROR: install asciidoctor-pdf first!"; exit 1; }
+      check_tools asciidoctor-pdf || exit 1
     fi
   fi
 }
