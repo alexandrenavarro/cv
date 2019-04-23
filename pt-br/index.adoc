@@ -3,6 +3,7 @@ Paulo Jerônimo <pj@paulojeronimo.com>
 {localdatetime}
 :toc2:
 :toclevels: 2
+:toc-title: Conteúdo
 :icons: font
 :iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 :linkattrs:
