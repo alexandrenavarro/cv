@@ -47,17 +47,23 @@ _clean() {
 }
 
 # used to build the main doc (HTML and/or PDF)
-_build() {
+_all() {
   local result
 
-  echo "Generating HTML ..."
-  asciidoctor index.adoc
+  _html && _txt
   result=$?
 
-  _txt
-
   $generate_pdf || exit $result
+  _pdf
+}
 
+# used to build the TXT version (cv.txt)
+_html() {
+  echo "Generating HTML ..."
+  asciidoctor index.adoc
+}
+
+_pdf() {
   echo "Generating PDF ..."
   if $use_fopub
   then
@@ -70,21 +76,23 @@ _build() {
 
 # used to build the TXT version (cv.txt)
 _txt() {
-  if [ -f index.html ]
-  then
-    echo "Generating TXT ..."
+  [ -f index.html ] || {
+    echo "index.html must exists!"
+    return 1
+  }
 
-    # Using w3m: (https://github.com/asciidoctor/asciidoctor/issues/1636#issuecomment-167700917)
-    w3m -dump -cols 2147483647 index.html > cv.txt
+  echo "Generating TXT ..."
 
-    # Using lynx:
-    #lynx -dump -width=1024 -nolist index.html > cv.txt
+  # Using w3m: (https://github.com/asciidoctor/asciidoctor/issues/1636#issuecomment-167700917)
+  w3m -dump -cols 2147483647 index.html > cv.txt
 
-    # Using html-to-text (https://www.npmjs.com/package/html-to-text)
-    #html-to-text < index.html > cv.txt
+  # Using lynx:
+  #lynx -dump -width=1024 -nolist index.html > cv.txt
 
-    # Using html2text (https://github.com/jaytaylor/html2text)
-  fi
+  # Using html-to-text (https://www.npmjs.com/package/html-to-text)
+  #html-to-text < index.html > cv.txt
+
+  # Using html2text (https://github.com/jaytaylor/html2text)
 }
 
 # used to publish the generated docs to GitHub Pages
@@ -124,7 +132,7 @@ _publish() {
 check_prerequisites
 cd "$BASE_DIR/$LANGUAGE_DIR"
 op=$1
-[ "$op" ] || op=build
+[ "$op" ] || op=all
 type _$op &> /dev/null || {
   echo "Usage: `basename $0` [build]|<clean|publish>"
   exit 1
