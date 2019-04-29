@@ -2,9 +2,9 @@
 :uri-paulojeronimo: http://paulojeronimo.com
 // Paulo Jerônimo/Location
 // Brasilia
-//:uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
+:uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
 // Lisbon
-:uri-paulojeronimo-location: https://goo.gl/maps/mk9ac7NV9pH2
+//:uri-paulojeronimo-location: https://goo.gl/maps/mk9ac7NV9pH2
 // Paulo Jerônimo/Social
 :uri-paulojeronimo-twitter: https://twitter.com/paulojeronimo
 :uri-paulojeronimo-github: https://github.com/paulojeronimo

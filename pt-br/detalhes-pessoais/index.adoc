@@ -3,21 +3,25 @@
 
 .Paulo Jerônimo
 ****
-Consultor, desenvonvedor, autor, instrutor e palestrante.
-Desenvolvedor em linguagens de programação e ferramentas executáveis em plataformas __open source__ ou proprietárias(preferencialmente as primeiras).
-Atuando no mercado corporativo desde 1993, produz soluções utilizando práticas ágeis.
-Bastante experiência em arquitetura, desenvolvimento e infraestrutura para o atendimento a requisitos não funcionais em sistemas de missão crítica, escaláveis, tolerantes a falha e executáveis por cluster de servidores de aplicações em nuvens computacionais púbilicas ou privadas.
+Consultor, líder técnico de equipes, arquiteto/ desenvonvedor, autor, instrutor e palestrante.
 
-Experiência também em liderança de equipes autogerenciáveis e atuando em desafios de missão crítica.
-Capaz de atuar efetivamente mesmo em situações de pressão e de operar de forma independente.
+Desenvolvedor com preferência de uso para linguagens de programação e plataformas __open source__.
+Atua no mercado corporativo desde 1993.
+Produz soluções utilizando práticas ágeis.
+Possui bastante experiência em arquitetura, desenvolvimento e infraestrutura para o atendimento a requisitos não funcionais em sistemas de missão crítica, escaláveis, tolerantes a falha e executáveis por cluster de servidores de aplicações em nuvens computacionais púbilicas ou privadas.
+
+Também tem experiência em liderança de equipes autogerenciáveis que atuam em desafios de missão crítica.
+Capaz de trabalhar efetivamente e de operar de forma independente mesmo em situações de pressão.
 Hábil em influenciar e mentorar equipes de desenvolvimento para atender as necessidades estratégicas de negócio dos clientes.
 
-Vasta experiência na definição de estratégias empresariais, soluções arquiteturais, definição do modelo de uso, implantação e operação de processo de desenvolvimento ágil e ferramentas de arquitetura, design, planejamento e desenvolvimento de software incluindo processos de ALM e DevOps.
+Detém experiência na definição de estratégias empresariais, soluções arquiteturais, definição do modelo de uso, implantação e operação de processo de desenvolvimento ágil e ferramentas de arquitetura, design, planejamento e desenvolvimento de software incluindo processos de ALM e DevOps.
 
-Forte atuação como consultor em ambientes envolvendo o uso de middlewares baseados em {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, e {GlassFish}.
+Possui forte atuação como consultor em ambientes envolvendo o uso de middlewares baseados em {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, e {GlassFish}.
 Capaz de definir estratégias para instalação, otimização de tamanho e configuração, melhores práticas para administração, automação de implantação, desing de topologia, assim como práticas para resolução de problemas, análise e tuning de performance.
 
-Instrutor experiente com mais de 3.400 horas de <<delivered-courses,treinamentos ministrados>> para vários clientes. Os tópicos principais incluem arquitetura de software, Test Driven Development (TDD), desenvolvimento {JavaEE} (incluindo Web, Web Services, EJB, JPA, etc), e administração de servidores de middleware (JBoss, Oracle, WebSphere).
+É instrutor em treinamentos corporativos e palestrante em eventos.
+Possui mais de 3.400 horas de <<delivered-courses,treinamentos ministrados>> para vários clientes.
+Os tópicos principais incluem arquitetura de software, Test Driven Development (TDD), desenvolvimento {JavaEE} (incluindo Web, Web Services, EJB, JPA, etc), e administração de servidores de middleware (JBoss, Oracle, WebSphere).
 ****
 
 Contatos::

@@ -27,8 +27,8 @@ Faça o download da link:cv.pdf[versão impressa (em PDF)] ({published-cv}/cv.pd
 Você também pode fazer o download da link:cv.txt[versao texto (TXT)] ({published-cv}/cv.txt).
 
 Este currículo é escrito no formato {AsciiDoc}.
-Seu código fonte está disponível em <<cv,cv repository>> on {my-GitHub-account}.
-Se você está buscando uma versão em deste currículo escrita no formato https://en.wikipedia.org/wiki/Microsoft_Word[Microsoft Word]: [red]#Lamento, eu não o utilizo!#
+Seu código fonte está disponível no <<cv,repositório cv>> na {my-GitHub-account}.
+Caso você esteja buscando uma versão Microsoft Word desse documento, [red]#lamento, eu não utilizo o Word e não tenho um `.docx` do meu CV.#
 
 ====
 endif::[]

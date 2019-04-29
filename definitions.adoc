@@ -1,9 +1,9 @@
 // My personal data
 :MyID: paulojeronimo
-:MyPhone: +351 916 575 781
+:MyPhone: +55 61 998 073 864
 :MyEmail: pj@{MyID}.com
 :MyTwitter: {uri-paulojeronimo-twitter}[@{MyID}]
-:MyLocation: Portugal/Lisbon
+:MyLocation: Brazil/Brasília
 
 // Courses
 :JavaSE8Fundamentals: {uri-java-se-8-fundamentals}[Java SE 8 Fundamentals]
@@ -222,8 +222,14 @@ endif::[]
 :OpenStack: {uri-redhat-openstack}[OpenStack]
 
 // Sentence snippets
+ifeval::["{lang}" == "en"]
 :my-GitHub-account: {uri-paulojeronimo-github}[my GitHub account]
 :my-company: <<_1999-09-self-employed-at-my-second-company,my company>>
+endif::[]
+ifeval::["{lang}" == "pt-br"]
+:my-GitHub-account: {uri-paulojeronimo-github}[minha conta no GitHub]
+:my-company: <<_1999-09-self-employed-at-my-second-company,minha empresa>>
+endif::[]
 
 // Places
 :Goiania: icon:map-marker[] {uri-goiania}[Goiânia]
@@ -255,7 +261,13 @@ endif::[]
 :UCG: icon:university[] {uri-ucg}[Universidade Católica de Goiás (UCG)]
 
 // Publications
+
+ifeval::["{lang}" == "en"]
 :published-cv: https://paulojeronimo.github.io/cv/en
+endif::[]
+ifeval::["{lang}" == "pt-br"]
+:published-cv: https://paulojeronimo.github.io/cv/pt-br
+endif::[]
 :published-jboss-domain-mode-scripts: https://paulojeronimo.github.io/jboss-domain-mode-scripts
 :published-praticando-git-livro: http://producao.virtual.ufpb.br/books/paulojeronimo/praticando-git-livro/livro/livro.pdf
 :published-tutorial-metalsmith: http://paulojeronimo.github.io/tutorial-metalsmith
