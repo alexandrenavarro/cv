@@ -1,0 +1,19 @@
+[[delivered-courses]]
+= Cursos ministrados
+
+:csvfile: cursos-ministrados.csv
+:csvdir: .
+ifdef::backend-pdf[]
+:csvdir: {published-cv}
+endif::[]
+
+Trabalhando como instrutor, ministrei vários cursos oficiais (da {Oracle}/ {RedHat}, por exemplo).
+Também escrevi meus próprios cursos para a {my-company} (ou para parceiros) no intuito de atender as demandas dos clientes.
+
+A lista completa de cursos, apresentada abaixo, oferece uma idéia do meu esforço para estar sempre atualizado com as tecnologias mais aplicadas em suas épocas.
+link:{csvdir}/{csvfile}[Essa lista pode ser baixada no formato CSV] e totaliza mais de 3.400 horas de treinamento em vários assuntos.
+
+[format="csv", subs="+attributes", separator=";", options="header"]
+|===
+include::../{csvfile}[]
+|===

@@ -1,5 +1,5 @@
 [[_2008-01-jboss-specialist-at-ambima]]
-= JBoss Specialist at Ambima
+= Especialista em JBoss na Ambima
 
 icon:calendar[] `January 2008 to April 2009` +
 icon:group[] {Ambima}

@@ -1,5 +1,5 @@
 [[_2015-10-project-manager-at-cebraspe]]
-= Project Manager at Cebraspe
+= Gerente de Projetos no Cebraspe
 
 icon:calendar[] `October 2015 to September 2016` +
 icon:group[] {Cebraspe}

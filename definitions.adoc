@@ -3,7 +3,7 @@
 :MyPhone: +55 61 998 073 864
 :MyEmail: pj@{MyID}.com
 :MyTwitter: {uri-paulojeronimo-twitter}[@{MyID}]
-:MyLocation: Brazil/Brasília
+:MyLocation: Brasil/Brasília
 
 // Courses
 :JavaSE8Fundamentals: {uri-java-se-8-fundamentals}[Java SE 8 Fundamentals]
@@ -88,6 +88,7 @@
 :Integer: http://integer.pt/[Integer]
 :Novabase: http://novabase.pt/[Novabase]
 :ThalesGroup: https://www.thalesgroup.com/[Thales Group]
+:GitHub: https://github.com[GitHub]
 
 // Groups
 :DFJUG: {uri-dfjug}[DFJUG]
@@ -129,6 +130,8 @@ ifdef::asciidoctor[]
 :Python: {uri-python}[Python]
 endif::[]
 :COBOL: {uri-cobol}[COBOL]
+:RMCOBOL: {uri-rmcobol}[RM/COBOL]
+:MBCOBOL: {uri-mbcobol}[MB-COBOL]
 :Pascal: {uri-pascal}[Pascal]
 :TurboPascal55: {uri-turbo-pascal-55}[Turbo Pascal 5.5]
 :JavaEE: {uri-java-ee}[Java EE]
@@ -225,10 +228,12 @@ endif::[]
 ifeval::["{lang}" == "en"]
 :my-GitHub-account: {uri-paulojeronimo-github}[my GitHub account]
 :my-company: <<_1999-09-self-employed-at-my-second-company,my company>>
+:baggage: icon:briefcase[] Things that I used (including pieces of code/ documents that I produced in {my-GitHub-account}) during these tasks:
 endif::[]
 ifeval::["{lang}" == "pt-br"]
 :my-GitHub-account: {uri-paulojeronimo-github}[minha conta no GitHub]
 :my-company: <<_1999-09-self-employed-at-my-second-company,minha empresa>>
+:baggage: icon:briefcase[] Lista de coisas que utilizei (incluindo parte das que produzi em {my-GitHub-account}) durante esses trabalhos:
 endif::[]
 
 // Places

@@ -1,5 +1,5 @@
 [[_2002-07-java-ee-architect-at-brasil-telecom]]
-= Java EE Architect at Brasil Telecom
+= Arquiteto Java EE na Brasil Telecom
 
 icon:calendar[] `July 2002 to October 2004` +
 icon:group[] {BrasilTelecom}

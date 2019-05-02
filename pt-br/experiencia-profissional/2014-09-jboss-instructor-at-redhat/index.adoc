@@ -1,5 +1,5 @@
 [[_2014-09-jboss-instructor-at-redhat]]
-= JBoss Instructor at Red Hat
+= Instrutor de cursos JBoss na Red Hat
 
 icon:calendar[] `September 2014 to January 2018` +
 icon:group[] Through {my-company}, I acted as a JBoss Instructor at {RedHat}.

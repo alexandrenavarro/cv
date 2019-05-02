@@ -1,8 +1,25 @@
 [[_2018-02-java-developer-at-integer]]
-= Software Developer at Integer
+= Arquiteto/ Desenvolvedor de Software na Integer
 
-icon:calendar[] `February 2018 to Now (On going)` +
-icon:group[] Working as a Software Developer at {Integer}.
+icon:calendar[] `Fevereiro de 2018 a Fevereiro de 2019` +
+icon:group[] Atuei como Arquiteto/ Desenvolvedor de Software na {Integer} (em Lisboa/ Portugal) prestando serviços para clientes dessa empresa.
 
-icon:calendar[] `April 2018 to Now (On going)`::
-Through this company and its partner ({NovaBase}), I am working as a software developer for {ThalesGroup} developing solutions at https://www.thalesgroup.com/en/global/activities/ground-transportation[Thales Ground Transportation System].
+icon:calendar[] `Abril de 2019 a Fevereiro de 2019`::
+Através da {Integer} e sua empresa parceira ({NovaBase}), atuei como arquiteto/ desenvolvedor de software para a {ThalesGroup} desenvolvendo soluções para a https://www.thalesgroup.com/en/global/activities/ground-transportation[sua área de transportes].
+
+{baggage}
+
+[cols="4*",options="header"]
+|===
+
+| Tecnologias
+| Ferramentas
+| Sistemas Operacionais
+| icon:github[] GitHub
+
+| {JavaSE}, {Spring}
+| {Bash}, {Vim}, {NetBeans}, {Git}, {GitHub}
+| {OracleLinux}
+| <<java-fundamentals-examples>>
+
+|===

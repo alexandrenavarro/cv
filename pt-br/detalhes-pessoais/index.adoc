@@ -3,7 +3,7 @@
 
 .Paulo Jerônimo
 ****
-Consultor, líder técnico de equipes, arquiteto/ desenvonvedor, autor, instrutor e palestrante.
+Consultor, líder técnico de equipes, arquiteto e desenvonvedor de software, autor, instrutor e palestrante.
 
 Desenvolvedor com preferência de uso para linguagens de programação e plataformas __open source__.
 Atua no mercado corporativo desde 1993.

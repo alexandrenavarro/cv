@@ -1,5 +1,5 @@
 [[_2010-12-middleware-specialist-at-algar]]
-= Middleware Specialist at Algar 
+= Especialista em Middleware na tAlgar
 
 icon:calendar[] `December 2010 to April 2011` +
 icon:group[] {Algar}

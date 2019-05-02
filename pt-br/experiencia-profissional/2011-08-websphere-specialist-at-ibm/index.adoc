@@ -1,5 +1,5 @@
 [[_2011-08-websphere-specialist-at-ibm]]
-= Websphere Specialist at IBM
+= Especialista em Websphere na IBM
 
 icon:calendar[] `August 2011 to June 2012` +
 icon:group[] {IBM}

@@ -1,5 +1,5 @@
 [[_2013-01-java-ee-architect-at-capes]]
-= Java EE Architect at Capes
+= Arquiteto Java EE na Capes
 
 icon:calendar[] `January 2013 to June 2013` +
 icon:group[] {Capes}

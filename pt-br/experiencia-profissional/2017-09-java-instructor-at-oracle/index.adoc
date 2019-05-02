@@ -1,26 +1,25 @@
 [[_2017-09-java-instructor-at-oracle]]
-= Java Instructor at Oracle
+= Instrutor de cursos Java na Oracle
 
-icon:calendar[] `September 2017 to January 2018` +
-icon:group[] Through {my-company}, I acted as a Java Instructor at {Oracle}.
+icon:calendar[] `Setembro de 2017 a Janeiro de 2018` +
+icon:group[] Através da {my-company}, atuei como instrutor de cursos Java na {Oracle}.
 
-I ministered {uri-oracle-java-training}[official Oracle Java courses].
+Ministrei {uri-oracle-java-training}[cursos oficiais de Java da Oracle].
+A lista de cursos que ministrei pode ser vista no tópico "<<delivered-courses>>".
 
-You can see my complete list of delivered training in the topic "<<delivered-courses>>".
+{baggage}
 
-icon:briefcase[] Things that I used in my works:
-
-[cols="3*",options="header"]
+[cols="4*",options="header"]
 |===
 
-| Technologies
-| Tools
-| OS
+| Tecnologias
+| Ferramentas
+| Sistemas Operacionais
+| icon:github[] GitHub
 
 | {JavaSE} 8
-| {Bash}, {Vim}, {NetBeans}
+| {Bash}, {Vim}, {NetBeans}, {Git}, {GitHub}
 | {OracleLinux}
+| <<java-fundamentals-examples>>
 
 |===
-
-icon:github[] Some pieces of my works, available on {my-GitHub-account}: <<java-fundamentals-examples>>.

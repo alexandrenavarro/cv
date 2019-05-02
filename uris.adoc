@@ -109,6 +109,8 @@
 :uri-php: http://php.net/
 :uri-python: https://www.python.org/
 :uri-cobol: https://en.wikipedia.org/wiki/COBOL
+:uri-rmcobol: https://www.microfocus.com/products/rm-cobol/#
+:uri-mbcobol: http://www.microbase.com.br/empresa/empresa_historico.htm
 :uri-pascal: https://en.wikipedia.org/wiki/Pascal_(programming_language)
 :uri-turbo-pascal-55: https://edn.embarcadero.com/article/20803
 :uri-solidity: https://solidity.readthedocs.io/en/develop/
@@ -231,7 +233,7 @@
 :uri-ambima: http://www.anbima.com.br
 :uri-summa: https://www.linkedin.com/company/166191/
 :uri-politec: https://br.linkedin.com/company/politec
-:uri-fujioka: https://www.fujioka.com.br
+:uri-fujioka: https://www.fujioka.com.br/fujioka
 :uri-embrace: http://www.embraceeng.com.br
 :uri-b3: http://www.b3.com.br
 :uri-cetip: https://www.cetip.com.br/

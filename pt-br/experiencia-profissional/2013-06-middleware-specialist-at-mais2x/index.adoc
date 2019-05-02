@@ -1,5 +1,5 @@
 [[_2013-06-middleware-specialist-at-mais2x]]
-= Middleware Specialist at +2x
+= Especialista em Middleware na +2x
 
 icon:calendar[] `June 2013 to June 2014` +
 icon:group[] {Mais2x}
