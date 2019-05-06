@@ -1,23 +1,28 @@
-[[personal-details]]
+[personal-details]]
 = icon:user[] Detalhes Pessoais
 
 .Paulo Jerônimo
 ****
 Consultor, líder técnico de equipes, arquiteto e desenvonvedor de software, autor, instrutor e palestrante.
 
-Desenvolvedor com preferência de uso para linguagens de programação e plataformas __open source__.
 Atua no mercado corporativo desde 1993.
+Desenvolve dando preferência ao uso de plataformas e linguagens de programação __open source__.
 Produz soluções utilizando práticas ágeis.
-Possui bastante experiência em arquitetura, desenvolvimento e infraestrutura para o atendimento a requisitos não funcionais em sistemas de missão crítica, escaláveis, tolerantes a falha e executáveis por cluster de servidores de aplicações em nuvens computacionais púbilicas ou privadas.
+Experiente em definições arquiteturais, no desenvolvimento e na infraestrutura para o atendimento a requisitos não funcionais em sistemas de missão crítica, escaláveis, tolerantes a falha e executáveis por cluster de servidores de aplicações em nuvens computacionais púbilicas ou privadas.
 
-Também tem experiência em liderança de equipes autogerenciáveis que atuam em desafios de missão crítica.
-Capaz de trabalhar efetivamente e de operar de forma independente mesmo em situações de pressão.
-Hábil em influenciar e mentorar equipes de desenvolvimento para atender as necessidades estratégicas de negócio dos clientes.
+Lidera equipes autogerenciáveis que atuam em desafios de missão crítica.
+Trabalha efetivamente operando de forma independente mesmo em situações de pressão.
+Influencia e mentora equipes de desenvolvimento para atender as necessidades estratégicas de negócio dos clientes.
 
-Detém experiência na definição de estratégias empresariais, soluções arquiteturais, definição do modelo de uso, implantação e operação de processo de desenvolvimento ágil e ferramentas de arquitetura, design, planejamento e desenvolvimento de software incluindo processos de ALM e DevOps.
+Define estratégias empresariais, soluções arquiteturais, modelo de uso, implantação e operação de processo de desenvolvimento ágil.
+Planeja o desenvolvimento software incluindo o uso de processos de {ALM} e {DevOps}.
 
-Possui forte atuação como consultor em ambientes envolvendo o uso de middlewares baseados em {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, e {GlassFish}.
-Capaz de definir estratégias para instalação, otimização de tamanho e configuração, melhores práticas para administração, automação de implantação, desing de topologia, assim como práticas para resolução de problemas, análise e tuning de performance.
+Oferece consultoria em __cloud computing__ e servidores de aplicações.
+Possui experiência prática no uso de plataformas como o {AWS} e o {Azure}.
+Instala e configura plataformas como {OpenShift} e {CloudFoundry}.
+Também, desde 2001, instala e configura de servidores de aplicações {Java}
+(Ex.: {ApacheTomcat}, {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, {GlassFish}, etc).
+É capaz de definir estratégias para instalação, otimização de tamanho e configuração, melhores práticas para administração, automação de implantação, desing de topologia, assim como práticas para resolução de problemas, análise e tuning de performance.
 
 É instrutor em treinamentos corporativos e palestrante em eventos.
 Possui mais de 3.400 horas de <<delivered-courses,treinamentos ministrados>> para vários clientes.

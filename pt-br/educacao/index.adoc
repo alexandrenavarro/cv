@@ -5,10 +5,10 @@
 
 {UnB}::
 *Especialização*: Sistemas Distribuídos e Orientação a Objetos +
-2001 - 2002
+Iniciado em 2001 - Concluído em 2002
 [[my-graduation]] {UCG}::
 *Gradução*: Ciência da Computação +
-1994 - 1998
+Iniciado em 1994 - Concluído em 1998
 
 == Línguas
 

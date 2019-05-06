@@ -94,6 +94,7 @@
 :uri-debian: http://www.debian.org/
 :uri-ubuntu: https://www.ubuntu.com/
 :uri-oracle-linux: https://www.oracle.com/linux/index.html
+:uri-archlinux: https://www.archlinux.org/
 
 // Programming Languages
 :uri-bash: https://www.gnu.org/software/bash/
@@ -142,6 +143,7 @@
 :uri-kvm: https://www.linux-kvm.org
 :uri-vagrant: https://www.vagrantup.com/
 :uri-docker: https://www.docker.com/
+
 // Tools/Java/Build
 :uri-ant: https://ant.apache.org
 // Tools/Java/Project Management
@@ -162,6 +164,9 @@
 :uri-awestruct: http://awestruct.org/
 // Tools/Shell
 :uri-tmux: https://github.com/tmux/tmux/wiki
+
+:uri-alm: https://en.wikipedia.org/wiki/Application_lifecycle_management
+:uri-devops: https://en.wikipedia.org/wiki/DevOps
 
 // Middleware/Red Hat
 :uri-wildfly: http://wildfly.org
@@ -199,6 +204,11 @@
 // Cloud/Red Hat
 :uri-redhat-openstack: https://www.redhat.com/en/technologies/linux-platforms/openstack-platform
 :uri-redhat-openshift: https://www.openshift.com/
+
+//  Cloud/Other
+:uri-aws: https://aws.amazon.com/
+:uri-azure: https://azure.microsoft.com/
+:uri-cloudfoundry: https://www.cloudfoundry.org/
 
 // Databases/Oracle
 :uri-oracle-database: https://www.oracle.com/database/index.html
@@ -293,3 +303,9 @@
 
 // Events
 :uri-javasenior: http://a.ladoservidor.com/eventos/javasenior.html
+
+// Other
+:uri-swarm: https://docs.docker.com/engine/swarm/
+:uri-kubernetes: https://kubernetes.io/
+:uri-delphi: https://www.embarcadero.com/products/delphi
+

@@ -169,11 +169,15 @@ endif::[]
 :CentOS: {uri-centos}[CentOS]
 :Debian: {uri-debian}[Debian]
 :Fedora: {uri-fedora}[Fedora]
+:ArchLinux: {uri-archlinux}[Arch Linux]
 :Ubuntu: {uri-ubuntu}[Ubuntu]
 :macOS: {uri-macos}[macOS]
 :RHSSO: {uri-rhsso}[RHSSO]
 :Vagrant: {uri-vagrant}[Vagrant]
 :Docker: {uri-docker}[Docker]
+:Swarm: {uri-swarm}[Swarm]
+:Kubernetes: {uri-kubernetes}[Kubernetes]
+:Delphi: {uri-delphi}[Delphi]
 :Spring: {uri-spring}[Spring]
 :Struts: {uri-struts}[Struts]
 :JUnit: {uri-junit}[JUnit]
@@ -213,6 +217,8 @@ endif::[]
 :Solidity: {uri-solidity}[Solidity]
 :Groovy: {uri-groovy}[Groovy]
 :Gradle: {uri-gradle}[Gradle]
+:ALM: {uri-alm}[ALM]
+:DevOps: {uri-devops}[DevOps]
 
 // Colleagues
 :WallaceAraujo: {uri-wally}[Wallace Araujo]
@@ -223,6 +229,11 @@ endif::[]
 // Cloud/Red Hat
 :OpenShift: {uri-redhat-openshift}[OpenShift]
 :OpenStack: {uri-redhat-openstack}[OpenStack]
+
+// Cloud/Other
+:AWS: {uri-aws}[AWS]
+:Azure: {uri-azure}[Azure]
+:CloudFoundry: {uri-cloudfoundry}[CloudFoundry]
 
 // Sentence snippets
 ifeval::["{lang}" == "en"]

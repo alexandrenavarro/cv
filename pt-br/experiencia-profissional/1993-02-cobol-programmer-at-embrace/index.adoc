@@ -4,5 +4,6 @@
 icon:calendar[] `De Fevereiro de 1993 a Março de 1994` +
 icon:group[] {Embrace}
 
-Meu primeiro emprego, trabalhando como programador {COBOL} numa empresa de engenharia.
+Meu primeiro emprego.
+Trabalhei como programador {COBOL} numa empresa de engenharia.
 Minha principal responsabilidade foi portar código de aplicações que executavam no {RMCOBOL} (num Digix - um clone Unix da Digirede) para o {MBCOBOL}.

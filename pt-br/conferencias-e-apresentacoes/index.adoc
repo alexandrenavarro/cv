@@ -7,7 +7,7 @@
     * icon:file[] Material: https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
     * Vídeos:
     ** icon:youtube[] https://www.youtube.com/watch?v=YVj9B8A6SJY[Blockchain]
-  {DFJUG} Encontrol online, {Brasilia}, 6 de Março:::
+  {DFJUG} Encontro online, {Brasilia}, 6 de Março:::
     * Construindo *microserviços* para execução no *OpenShift*
     * icon:file[] Material: https://paulojeronimo.github.io/microservices-on-openshift/
     * Vídeos:

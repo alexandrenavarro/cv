@@ -4,10 +4,10 @@
 icon:calendar[] `De Abril de 1994 a Março de 1995` +
 icon:group[] {Fujioka}
 
-Fui contratado para desenvolver sistemas comerciais utilizando a linguagem de programação Pascal.
+Trabalhei como programador Pascal.
+Fui contratado para desenvolver sistemas comerciais.
 
-O desenvolvimento era realizado utilizando a versão orientada a objetos do Pascal, iniciada no {TurboPascal55}.
-Esse compilador foi o primeiro compilador que utilizei em meu <<my-graduation,curso de gradução em Ciência da Computação>>.
+Minhas atividades de desenvolvimento foram realizadas utilizando a versão orientada a objetos do Pascal, iniciada no {TurboPascal55}.
 
 Desenvolvi vários sistemas, juntamente com o time de desenvolvimento do Fujioka, até a versão Borland Pascal 7.0.
-A partir desse momento, migrei meus interesses para o desenvolvimento orientado a objetos em {cpp} e iniciei a construção de aplicações neste linguagem.
+A partir desse momento, migrei meus interesses para o desenvolvimento orientado a objetos em {Delphi} (recém surgido) e {cpp}.
