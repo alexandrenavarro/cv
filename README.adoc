@@ -3,11 +3,12 @@
 == HTML, TXT and PDF generation
 
 ----
-./build
+$ ./build
+$ open en/index.html
 ----
 
 == GitHub pages Publication
 
 ----
-./build publish
+$ ./build publish
 ----

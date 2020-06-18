@@ -21,8 +21,8 @@ Contacts::
 * icon:phone[] Mobile Phone/WhatsApp: {MyPhone}
 * icon:skype[] Skype: {MyID}
 WebSites::
-* paulojeronimo [http://paulojeronimo.com[.com] | http://paulojeronimo.info[.info] (__pt-br, [red]#deprecated#)__]
-* {uri-ladoservidor}[ladoservidor.com] __(pt-br, [red]#deprecated#)__
+* https://finisher.tech[Finisher.Tech] - (a personal project)
+* https://paulojeronimo.github.io[paulojeronimo.github.io] (I publish all my stuff in https://pages.github.io[GitHub Pages])
 Social Media::
 * icon:linkedin[] Linkedin: {uri-paulojeronimo-linkedin} | icon:github[] GitHub: {uri-paulojeronimo-github} | icon:twitter[] Twitter: {uri-paulojeronimo-twitter} | icon:facebook[] Facebook: {uri-paulojeronimo-facebook} | icon:instagram[] Instagram: {uri-paulojeronimo-instagram}
 icon:map-marker[] Location::

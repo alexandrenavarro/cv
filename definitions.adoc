@@ -1,9 +1,9 @@
 // My personal data
 :MyID: paulojeronimo
-:MyPhone: +55 61 998 073 864
-:MyEmail: pj@{MyID}.com
+:MyPhone: +55 61 99807 3864
+:MyEmail: paulojeronimo@gmail.com
 :MyTwitter: {uri-paulojeronimo-twitter}[@{MyID}]
-:MyLocation: Brasil/Brasília
+:MyLocation: Brazil/Brasilia
 
 // Courses
 :JavaSE8Fundamentals: {uri-java-se-8-fundamentals}[Java SE 8 Fundamentals]
