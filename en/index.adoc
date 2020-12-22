@@ -1,6 +1,7 @@
-= Curriculum Vitae
+= Paulo Jerônimo's CV
 Paulo Jerônimo <pj@paulojeronimo.com>
 {localdatetime}
+:toc-title:
 :toc2:
 :toclevels: 2
 :icons: font
@@ -32,27 +33,28 @@ If you are looking for a version of this CV written in https://en.wikipedia.org/
 ====
 endif::[]
 
+<<<
 include::personal-details/index.adoc[]
 
-//<<<
+<<<
 include::professional-experience/index.adoc[]
 
-//<<<
+<<<
 include::technical-writing/index.adoc[]
 
-//<<<
+<<<
 include::conferences-and-presentations/index.adoc[]
 
-//<<<
+<<<
 include::education/index.adoc[]
 
-//<<<
+<<<
 include::technical-skills/index.adoc[]
 
-//<<<
+<<<
 include::certifications/index.adoc[]
 
-//<<<
+<<<
 include::github-repositories/index.adoc[]
 
 :leveloffset: -1

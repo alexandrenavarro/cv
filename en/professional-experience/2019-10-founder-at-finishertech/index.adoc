@@ -1,0 +1,22 @@
+[[_2019-10-founder-at-finishertech]]
+= [[finishertech]] Founder at Finisher.Tech
+
+icon:calendar[] `October 2019 to Present` +
+icon:group[] Founder at {FinisherTech}.
+
+{FinisherTech} is a personal project where I put my efforts to develop
+software using technologies like *{Blockchain}*, *Artificial
+Intelligence* and *Data Visualization* to produce apps to the wellness
+area.
+
+Here I'm creating apps using tools like {React}, {ReactNative},
+{Kotlin}, {Solidity} and {Vyper}.
+
+Some links about it:
+
+* https://paulojeronimo.com/tw-metas
+* https://j.mp/FTFreeWeeks1
+* https://j.mp/FTFreeWeek1
+* https://finisher.tech/slides/projeto.html
+* https://finisher.tech/slides/projeto.A4.9slides.pdf
+* https://finisher.tech/

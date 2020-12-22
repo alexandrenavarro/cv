@@ -3,6 +3,13 @@
 
 :leveloffset: +1
 
+//<<<
+include::2020-07-senior-software-architect-at-ilia/index.adoc[]
+
+//<<<
+include::2019-10-founder-at-finishertech/index.adoc[]
+
+<<<
 include::2018-02-java-developer-at-integer/index.adoc[]
 
 //<<<
@@ -41,7 +48,7 @@ include::2008-01-jboss-specialist-at-ambima/index.adoc[]
 //<<<
 include::2002-07-java-ee-architect-at-brasil-telecom/index.adoc[]
 
-//<<<
+<<<
 include::1999-09-self-employed-at-my-second-company/index.adoc[]
 
 //<<<

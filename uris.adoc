@@ -1,5 +1,5 @@
 // Paulo Jerônimo/Site
-:uri-paulojeronimo: http://paulojeronimo.com
+:uri-paulojeronimo: https://paulojeronimo.com
 // Paulo Jerônimo/Location
 // Brasilia
 :uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
@@ -9,8 +9,9 @@
 :uri-paulojeronimo-twitter: https://twitter.com/paulojeronimo
 :uri-paulojeronimo-github: https://github.com/paulojeronimo
 :uri-paulojeronimo-linkedin: https://www.linkedin.com/in/paulojeronimo/
-:uri-paulojeronimo-facebook: https://www.facebook.com/paulojeronimo.info
-:uri-paulojeronimo-instagram: https://www.instagram.com/paulojeronimo_/
+:uri-paulojeronimo-facebook: https://www.facebook.com/paulojeronimo74
+:uri-paulojeronimo-instagram: https://www.instagram.com/paulojeronimo74
+:uri-paulojeronimo-youtube: https://www.youtube.com/user/paulojeronimo74
 
 // Paulo Jerônimo/Personal Presentation
 :uri-github-account: https://github.com/paulojeronimo
@@ -114,12 +115,17 @@
 :uri-mbcobol: http://www.microbase.com.br/empresa/empresa_historico.htm
 :uri-pascal: https://en.wikipedia.org/wiki/Pascal_(programming_language)
 :uri-turbo-pascal-55: https://edn.embarcadero.com/article/20803
+:uri-blockchain: https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+:uri-ethereum: https://ethereum.org/en/learn/#ethereum-basics
 :uri-solidity: https://solidity.readthedocs.io/en/develop/
+:uri-vyper: https://vyper.readthedocs.io/en/stable/
 :uri-groovy: http://groovy-lang.org/
 
 // Java Frameworks
 :uri-java-ee: http://www.oracle.com/technetwork/java/javaee/overview/index.html
 :uri-spring: https://spring.io/
+:uri-spring-boot: https://spring.io/projects/spring-boot
+:uri-spring-cloud-dataflow: https://spring.io/projects/spring-cloud-dataflow
 :uri-struts: https://struts.apache.org/
 :uri-vraptor: http://www.vraptor.org/
 :uri-xstream: http://x-stream.github.io/
@@ -130,6 +136,8 @@
 
 // JavaScript Frameworks
 :uri-angularjs: https://angularjs.org/
+:uri-react: https://reactjs.org/
+:uri-react-native: https://reactnative.dev/
 
 // Tools/Version Control
 :uri-git: https://git-scm.org
@@ -194,6 +202,7 @@
 // Middleware/Apache
 :uri-apache-tomcat: https://tomcat.apache.org/
 :uri-apache-http: https://httpd.apache.org/
+:uri-apache-nifi: https://nifi.apache.org/
 :uri-mod_proxy: https://httpd.apache.org/docs/current/mod/mod_proxy.html
 :uri-mod_proxy_balancer: https://httpd.apache.org/docs/2.4/mod/mod_proxy_balancer.html
 // Middleware/Other
@@ -209,6 +218,7 @@
 :uri-aws: https://aws.amazon.com/
 :uri-azure: https://azure.microsoft.com/
 :uri-cloudfoundry: https://www.cloudfoundry.org/
+:uri-cloudfoundry-uaa: https://docs.cloudfoundry.org/uaa/
 
 // Databases/Oracle
 :uri-oracle-database: https://www.oracle.com/database/index.html
@@ -231,10 +241,13 @@
 :uri-jb225: https://goo.gl/d8PX9k
 
 // Companies
+:uri-finishertech: https://finisher.tech
+:uri-caixa-seguradora: https://caixaseguradora.com.br
+:uri-ilia: https://ilia.digital
 :uri-oracle: https://oracle.com
 :uri-redhat: https://redhat.com
 :uri-ibm: https://www.ibm.com
-:uri-ladoservidor: http://ladoservidor.com
+:uri-ladoservidor: http://ladoservidor.blogspot.com
 :uri-cebraspe: http://www.cespe.unb.br/cebraspe/
 :uri-tecnisys: https://www.tecnisys.com.br
 :uri-mj: http://www.justica.gov.br/

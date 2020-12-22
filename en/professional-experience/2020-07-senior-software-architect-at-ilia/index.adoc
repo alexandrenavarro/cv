@@ -1,0 +1,23 @@
+[[_2020-07-senior-software-architect-at-ilia]]
+= Senior Software Architect at ília
+
+icon:calendar[] `July 2020 to Present` +
+icon:group[] Working as a Software Architect at {ilia}.
+
+Working at {CaixaSeguradora} focused on creating {RH-SSO} ({Keycloak})
+software extensions.
+Basically, the things that I created to this project was written in
+{Bash} and {Java} and the last extension that I created built an
+integration between {Keycloak} and an *Interactive Voice Response* (IVR)
+system.
+
+Some non related projects that I created in a open source way only to
+study or explore more about some {Keycloak} features that I'm using in
+my customizations, are exposed in these links:
+
+* https://github.com/paulojeronimo/keycloak-robot-integration-demo
+* https://paulojeronimo.com/keycloak-robot-integration/
+* https://paulojeronimo.com/rh-sso-manage-users/
+* https://paulojeronimo.com/keycloak-labs/
+* https://paulojeronimo.com/keycloak-matrix/
+* https://paulojeronimo.com/responsabilidades-keycloak

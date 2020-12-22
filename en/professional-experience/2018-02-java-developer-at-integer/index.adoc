@@ -5,22 +5,27 @@ icon:calendar[] `February 2018 to February 2019` +
 icon:group[] Working as a Software Developer at {Integer}.
 
 icon:calendar[] `April 2018 to February 2019`::
-Through this company and its partner ({NovaBase}), I am working as a software developer for {ThalesGroup} developing solutions at https://www.thalesgroup.com/en/global/activities/ground-transportation[Thales Ground Transportation System].
+Through this company and its partner ({NovaBase}), I am working as a
+software developer for {ThalesGroup} developing solutions at
+https://www.thalesgroup.com/en/global/activities/ground-transportation[Thales
+Ground Transportation System].
 
-* I worked on team focused on developing software to transportation using *Spring Boot* and Pivotal *Cloud Foundry* solutions.
-** I worked as an architect and also as a software developer.
-* Did some comparisons about technologies like:
-** Apache NiFi vs Spring Cloud Data Flow.
+* I worked (as an software architect and also as developer) on team
+  focused on developing software to transportation using {SpringBoot}
+and Pivotal {CloudFoundry} solutions.
+* I did some study to produce comparison between technologies like
+** {ApacheNiFi} vs {SpringCloudDataFlow} ...
 *** https://github.com/paulojeronimo/apache-nifi-tutorial
 *** https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
 *** https://github.com/paulojeronimo/spring-cloud-dataflow-tutorial
 *** https://github.com/paulojeronimo/vagrant-nifi-cluster
-** Keycloak vs UAA.
+** {Keycloak} vs {UAA} ...
 *** https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
 *** https://github.com/paulojeronimo/keycloak-resource-server-demo
 *** https://github.com/paulojeronimo/uaa-tutorial
 *** https://github.com/paulojeronimo/oauth-uaa-sample
-* Other ...
+* I also created some little projects to explain some techs to my
+  colleagues ...
 ** https://github.com/paulojeronimo/gs-rest-service-aws
 ** https://github.com/paulojeronimo/gs-rest-service-provision-scripts
 ** https://github.com/paulojeronimo/gs-rest-service-certificate

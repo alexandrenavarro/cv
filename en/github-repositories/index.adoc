@@ -2,7 +2,7 @@
 = icon:github[] GitHub
 
 [[github-repositories-my]]
-My repositories::
+Some of my repositories::
   Things that I wrote:::
     * [[cv]] {cv}: The source code of my Curriculum Vitae, written in AsciiDoc format.
     * [[whoami]] {whoami}: My personal presentation, written in AsciiDoc format.
@@ -30,7 +30,7 @@ My repositories::
     * [[docker-rhel-nexus]] {docker-rhel-nexus}: OpenShift Dockerfiles, templates and scripts to run Nexus Repository Manager.
     * [[docker-oracle-xe]] {docker-oracle-xe}: Dockerfile of Oracle Database Express Edition 11g Release 2.
 [[github-repositories-contributions]]
-My contributions::
+Some o f my contributions to projects from others::
   https://github.com/forge/core[forge/core]:::
     * https://github.com/forge/core/pull/537[Fix forge bash script #537]
   https://github.com/anders94/blockchain-demo[anders94/blockchain-demo]:::
