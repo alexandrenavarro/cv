@@ -51,7 +51,6 @@ include::education/index.adoc[]
 <<<
 include::technical-skills/index.adoc[]
 
-<<<
 include::certifications/index.adoc[]
 
 <<<

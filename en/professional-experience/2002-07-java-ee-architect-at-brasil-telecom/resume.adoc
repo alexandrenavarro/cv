@@ -1,0 +1,4 @@
+icon:calendar[] `July 2002 to October 2004` - Java EE Architect at Brasil Telecom::
+I did software architecture and development in Java, C, and C++ for many
+telecommunications applications.
+{uri-cv}/#_2002-07-java-ee-architect-at-brasil-telecom[Read more ...]

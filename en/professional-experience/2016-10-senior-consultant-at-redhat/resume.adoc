@@ -1,0 +1,3 @@
+icon:calendar[] `October 2016 to January 2018` - Senior Consultant at Red Hat::
+Through {my-company}, I acted as a Senior Consultant at {RedHat}.
+{uri-cv}/#_2016-10-senior-consultant-at-redhat[Read more ...].

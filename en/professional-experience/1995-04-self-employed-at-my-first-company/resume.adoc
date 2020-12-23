@@ -1,0 +1,4 @@
+icon:calendar[] `April 1995 to August 1998` - Self-employed at Login Informática::
+This was my first company. I developed much software in Pascal, C, and
+{cpp} languages, for many customers.
+{uri-cv}/#_1995-04-self-employed-at-login-informatica[Read more ...]

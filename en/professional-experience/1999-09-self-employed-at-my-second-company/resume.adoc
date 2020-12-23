@@ -1,0 +1,13 @@
+[[my-company]]
+icon:calendar[] `September 1999 to January 2018` - Self-employed at Paulo Jerônimo ME::
+*Paulo Jerônimo Treinamentos Eireli-ME* was the name of my own micro
+company.
+It was founded in September 1999 with the name *ALP Engenharia de
+Software Ltda*.
+For many years my company lived only attending some specify customers,
+without a trademark.
+Therefore, in April 2010, I decided to give it one:
+*{uri-ladoservidor}[Lado Servidor]*.
+Using this name, I developed many works involving the creation of custom
+training to many customers.
+{uri-cv}/#_1999-09-self-employed-at-my-second-company[Read more ...]

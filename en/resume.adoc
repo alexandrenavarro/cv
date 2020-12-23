@@ -1,0 +1,45 @@
+= Paulo Jerônimo's Résumé
+Paulo Jerônimo <pj@paulojeronimo.com>
+{localdatetime}
+:icons: font
+:iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:attribute-missing: warn
+
+include::../uris.adoc[]
+include::../definitions.adoc[]
+
+// Definition rewrites
+:my-company: <<my-company,my company>>
+
+:leveloffset: +1
+
+ifdef::backend-html5[]
+[NOTE]
+====
+Download the link:resume.pdf[printable (PDF) version]
+({published-cv}/resume.pdf). +
+My complete CV is available here: {uri-cv}.
+====
+endif::[]
+
+include::personal-details/resume.adoc[]
+
+include::technical-skills/index.adoc[]
+
+include::technical-writing/resume.adoc[]
+
+include::professional-experience/resume.adoc[]
+
+include::education/resume.adoc[]
+
+include::conferences-and-presentations/resume.adoc[]
+
+include::certifications/index.adoc[]
+
+:leveloffset: -1

@@ -1,0 +1,4 @@
+icon:calendar[] `June 2013 to June 2014` - Middleware Specialist at +2x::
+Acting for clients of the company, developing activities related to supporting for Linux servers ({CentOS}, {RHEL}, {Debian}) and middleware running {ApacheHTTP}, {Nginx}, {ApacheTomcat} or {JBossEAP}.
+Supporting for applications written in {Python}, {PHP}, and {Java}.
+{uri-cv}/#_2013-06-middleware-specialist-at-mais2x[Read more ...]

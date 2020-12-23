@@ -1,0 +1,26 @@
+= icon:graduation-cap[] Education
+
+[[my-academic-background]]
+== Academic Background
+
+{UnB}::
+Specialist, Distributed Systems and Object Orientation - 2001 -> 2002
+[[my-graduation]] {UCG}::
+Bachelor's degree, Computer Science - 1994 -> 1998
+
+== Language Skills
+
+*Portuguese*: native language. +
+*English*: fluent (reading); intermediate (speaking, writing).
+
+[[delivered-courses]]
+== Delivered courses
+
+Working as an instructor, I delivered official courses ({Oracle}/
+{RedHat}, for example) and also courses that I wrote on {my-company} (or
+with partners) to attend customer in person.
+
+The {uri-cv}/delivered-courses.csv[complete list] (with more than
+3,400 hours training people in technology-related subjects) can be
+downloaded in CSV format and gives you an idea of my effort to always
+stay tuned with the current technologies in its epoch.

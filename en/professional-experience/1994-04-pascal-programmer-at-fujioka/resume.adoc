@@ -1,0 +1,5 @@
+icon:calendar[] `April 1994 to March 1995` - Pascal Programmer at Fujioka::
+I was hired to develop commercial systems (Financial Check Poster
+Control, Telesales, Postal Refund, etc) using as the {Pascal}
+programming language.
+{uri-cv}/#_1994-04-pascal-programmer-at-fujioka[Read more ...]

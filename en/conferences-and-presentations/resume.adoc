@@ -1,0 +1,14 @@
+[[conferences-and-presentations]]
+= icon:comments[] Conferences & presentations
+
+I did {uri-cv}/#conferences-and-presentations[a lot of presential talks]
+about many technical topics in Brazil.
+Currently I'm redirecting my efforts to produce online content on
+{uri-paulojeronimo-youtube}[my YouTube Channel].
+
+This is a very reduced list with some of the most relevant conferences
+that I already did a talk in Brazil:
+
+* JUDCon Brazil, {SaoPaulo}, 2014 September 26.
+* Oracle Technology Developer Day (OTN Day), {SaoPaulo}, 2011 August 02.
+* JustJava, {SaoPaulo}, 2011 May 18.

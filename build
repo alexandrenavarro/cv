@@ -61,6 +61,7 @@ _all() {
 _html() {
   echo "Generating HTML ..."
   asciidoctor -a lang=$LANGUAGE_DIR index.adoc
+  asciidoctor -a lang=$LANGUAGE_DIR resume.adoc
 }
 
 _pdf() {
@@ -71,6 +72,7 @@ _pdf() {
     $fopub $xml_name
   else
     asciidoctor-pdf -a lang=$LANGUAGE_DIR -o $pdf_name index.adoc
+    asciidoctor-pdf -a lang=$LANGUAGE_DIR -o resume.pdf resume.adoc
   fi
 }
 

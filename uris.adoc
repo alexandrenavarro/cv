@@ -1,5 +1,7 @@
 // Paulo Jerônimo/Site
 :uri-paulojeronimo: https://paulojeronimo.com
+// Paulo Jerônimo/CV
+:uri-cv: {uri-paulojeronimo}/cv/en
 // Paulo Jerônimo/Location
 // Brasilia
 :uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
@@ -101,6 +103,8 @@
 :uri-bash: https://www.gnu.org/software/bash/
 :uri-java-se: http://www.oracle.com/technetwork/java/javase/overview/index.html
 :uri-java: {uri-java-se}
+:uri-haskell: https://www.haskell.org/
+:uri-rust: https://www.rust-lang.org/
 :uri-go: https://golang.org/
 :uri-kotlin: https://kotlinlang.org/
 :uri-javascript: https://en.wikipedia.org/wiki/JavaScript
@@ -123,6 +127,7 @@
 
 // Java Frameworks
 :uri-java-ee: http://www.oracle.com/technetwork/java/javaee/overview/index.html
+:uri-hibernate: https://hibernate.org/
 :uri-spring: https://spring.io/
 :uri-spring-boot: https://spring.io/projects/spring-boot
 :uri-spring-cloud-dataflow: https://spring.io/projects/spring-cloud-dataflow
@@ -130,17 +135,30 @@
 :uri-vraptor: http://www.vraptor.org/
 :uri-xstream: http://x-stream.github.io/
 :uri-junit: http://junit.org
+:uri-jmock: http://jmock.org/
+:uri-mockito: https://site.mockito.org/
 :uri-arquillian: http://arquillian.org
 :uri-selenium: http://www.seleniumhq.org/
 :uri-forge: https://forge.jboss.org/
 
-// JavaScript Frameworks
+// JavaScript Tools and Frameworks
+:uri-npm: https://www.npmjs.com/
+:uri-yarn: https://yarnpkg.com/
 :uri-angularjs: https://angularjs.org/
+:uri-angular: https://angular.io/
 :uri-react: https://reactjs.org/
 :uri-react-native: https://reactnative.dev/
+:uri-jest: https://jestjs.io/
+:uri-mocha: https://mochajs.org/
+:uri-chai: https://www.chaijs.com/
+
+:uri-cucumber: https://cucumber.io/
+:uri-spock: http://spockframework.org/
+:uri-spek: https://www.spekframework.org/
 
 // Tools/Version Control
 :uri-git: https://git-scm.org
+:uri-subversion: https://subversion.apache.org/
 // Tools/Editors
 :uri-vim: https://vim.sourceforge.io/
 // Tools/Writing
@@ -162,6 +180,7 @@
 :uri-eclipse: http://www.eclipse.org/
 :uri-jboss-devstudio: https://developers.redhat.com/products/devstudio/overview/
 :uri-intellij: https://www.jetbrains.com/idea/
+:uri-visualstudiocode: https://code.visualstudio.com/
 // Tools/Java/IDE/plugins
 :uri-jboss-tools: https://tools.jboss.org/
 // Tools/Continuous Integration
@@ -175,6 +194,8 @@
 
 :uri-alm: https://en.wikipedia.org/wiki/Application_lifecycle_management
 :uri-devops: https://en.wikipedia.org/wiki/DevOps
+:uri-jira: https://www.atlassian.com/software/jira
+:uri-sonarqube: https://www.sonarqube.org/
 
 // Middleware/Red Hat
 :uri-wildfly: http://wildfly.org
@@ -321,4 +342,11 @@
 :uri-swarm: https://docs.docker.com/engine/swarm/
 :uri-kubernetes: https://kubernetes.io/
 :uri-delphi: https://www.embarcadero.com/products/delphi
-
+:uri-vmware: https://www.vmware.com/
+:uri-gcp: https://cloud.google.com/
+:uri-sed: https://www.gnu.org/software/sed/
+:uri-awk: https://www.gnu.org/software/gawk/
+:uri-curl: https://curl.se/
+:uri-httpie: https://httpie.io/
+:uri-jq: https://stedolan.github.io/jq/
+:uri-postman: https://www.postman.com/
