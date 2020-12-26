@@ -1,4 +1,4 @@
-icon:calendar[] `October 2015 to September 2016` - Project Manager at Cebraspe::
+*`October 2015 to September 2016` - Project Manager at Cebraspe -*
 I led a small team (some few developers and DevOps guys).
 We designed a Computer Based Test (CBT) solution (programmed in {NodeJS}
 to run on {Docker} containers).

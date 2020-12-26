@@ -1,4 +1,5 @@
-icon:calendar[] `July 2020 to Present` - Senior Software Architect at ília::
-Working at {CaixaSeguradora} focused on creating {RH-SSO} ({Keycloak})
-software extensions.
+*`July 2020 to Present` - Senior Software Architect at
+ília* -
+Working at {CaixaSeguradora} focused on develop {RH-SSO} ({Keycloak})
+software extensions (written in Java).
 {uri-cv}/#_2020-07-senior-software-architect-at-ilia[Read more ...]

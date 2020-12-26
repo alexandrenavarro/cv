@@ -1,5 +1,5 @@
 [[conferences-and-presentations]]
-= icon:comments[] Conferences & presentations
+= Conferences & presentations
 
 All my presentations, until this moment, was done in Brazil.
 So, here I'm keeping the original title (in Brazilian Portuguese) but highlighting (in *bold*) the subject(s).

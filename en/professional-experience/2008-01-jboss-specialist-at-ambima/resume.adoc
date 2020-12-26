@@ -1,4 +1,4 @@
-icon:calendar[] `January 2008 to April 2009` - JBoss Specialist at Ambima::
+*`January 2008 to April 2009` - JBoss Specialist at Ambima -*
 I worked in supporting middleware's infrastructure that makes up the
 Selic application servers, at Central Bank ({RioDeJaneiro})).
 {uri-cv}/#_2008-01-jboss-specialist-at-ambima[Read more ...]

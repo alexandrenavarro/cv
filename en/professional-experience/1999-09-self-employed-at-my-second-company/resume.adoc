@@ -1,5 +1,6 @@
 [[my-company]]
-icon:calendar[] `September 1999 to January 2018` - Self-employed at Paulo Jerônimo ME::
+*`September 1999 to January 2018` - Self-employed at Paulo Jerônimo ME
+-*
 *Paulo Jerônimo Treinamentos Eireli-ME* was the name of my own micro
 company.
 It was founded in September 1999 with the name *ALP Engenharia de

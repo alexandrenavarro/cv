@@ -1,4 +1,5 @@
-icon:calendar[] `September 2014 to March 2015` - Java EE Architect at Ministério da Justiça::
+*`September 2014 to March 2015` - Java EE Architect at Ministério da
+Justiça -*
 I was hired by {UNDP} as a {JavaEE} consultant to build the architecture
 for https://github.com/pensandoodireito[SISLEGIS application] and guide
 the development team to use {JavaEE} best practices.

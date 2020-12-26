@@ -3,10 +3,10 @@
 [[my-academic-background]]
 == Academic Background
 
-{UnB}::
-Specialist, Distributed Systems and Object Orientation - 2001 -> 2002
-[[my-graduation]] {UCG}::
-Bachelor's degree, Computer Science - 1994 -> 1998
+*{UnB}* 2001 -> 2002: *Specialist* - Distributed Systems and Object
+Orientation. +
+[[my-graduation]]*{UCG}* 1994 -> 1998: *Bachelor's degree* - Computer
+Science.
 
 == Language Skills
 
@@ -19,8 +19,15 @@ Bachelor's degree, Computer Science - 1994 -> 1998
 Working as an instructor, I delivered official courses ({Oracle}/
 {RedHat}, for example) and also courses that I wrote on {my-company} (or
 with partners) to attend customer in person.
-
 The {uri-cv}/delivered-courses.csv[complete list] (with more than
 3,400 hours training people in technology-related subjects) can be
 downloaded in CSV format and gives you an idea of my effort to always
 stay tuned with the current technologies in its epoch.
+
+:leveloffset: +1
+
+include::../certifications/index.adoc[]
+
+include::../conferences-and-presentations/resume.adoc[]
+
+:leveloffset: -1

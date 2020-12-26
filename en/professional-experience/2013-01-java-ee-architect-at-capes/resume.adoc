@@ -1,4 +1,4 @@
-icon:calendar[] `January 2013 to June 2013` - Java EE Architect at Capes::
+*`January 2013 to June 2013` - Java EE Architect at Capes -*
 Participation in project development ({JavaEE}) for the financial area
 of Capes, assisting in the implementation of a methodology of tests for
 applications (Test Drive Development (TDD)/ Behavior Driven Development

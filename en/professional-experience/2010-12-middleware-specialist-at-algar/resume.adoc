@@ -1,4 +1,4 @@
-icon:calendar[] `December 2010 to April 2011` - Middleware Specialist at Algar::
+*`December 2010 to April 2011` - Middleware Specialist at Algar -*
 I worked in consulting and support services for JBoss, Oracle and Apache
 application servers, for {CNPq} client ({Brasilia}).
 {uri-cv}/#_2010-12-middleware-specialist-at-algar[Read more ...]

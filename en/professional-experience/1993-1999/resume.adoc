@@ -1,0 +1,4 @@
+*`1993 to 1999` -*
+Between these years I also developed many projects using COBOL, Pascal,
+C/{cpp} and Delphi.
+Please, read about this in {uri-cv}[my CV].

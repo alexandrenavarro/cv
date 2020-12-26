@@ -1,15 +1,23 @@
 = Paulo Jerônimo's Résumé
 Paulo Jerônimo <pj@paulojeronimo.com>
 {localdatetime}
+ifdef::backend-html5[]
+:toc-title:
+:toc2:
+:toclevels: 2
+endif::[]
 :icons: font
 :iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 :linkattrs:
+:idprefix:
+:idseparator: -
 :sectanchors:
 :sectlink:
 :experimental:
 :source-language: asciidoc
 :includedir: _includes
 :attribute-missing: warn
+:nofooter:
 
 include::../uris.adoc[]
 include::../definitions.adoc[]
@@ -22,24 +30,19 @@ include::../definitions.adoc[]
 ifdef::backend-html5[]
 [NOTE]
 ====
-Download the link:resume.pdf[printable (PDF) version]
-({published-cv}/resume.pdf). +
-My complete CV is available here: {uri-cv}.
+Download the link:resume.pdf[printable (PDF) version]. +
+You may want read link:index.html[my complete CV].
 ====
 endif::[]
 
-include::personal-details/resume.adoc[]
+include::personal-details/index.adoc[]
 
+<<<
 include::technical-skills/index.adoc[]
-
-include::technical-writing/resume.adoc[]
 
 include::professional-experience/resume.adoc[]
 
+<<<
 include::education/resume.adoc[]
-
-include::conferences-and-presentations/resume.adoc[]
-
-include::certifications/index.adoc[]
 
 :leveloffset: -1

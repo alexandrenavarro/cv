@@ -1,26 +1,44 @@
 [[technical-skills]]
 = icon:plug[] Technical Skills
 
-Studying and improving::
-{Vyper}, {Go}, {Haskell}, {Rust}.
-
-Currently using::
-{VMware}, {VirtualBox}, {KVM}, {Vagrant}, {Docker}, {Kubernetes}, {Java}
-8, {JavaEE}, {Kotlin}, {Groovy}, {AsciiDoc}, Asciidoctor, {Bash}, {sed},
-{awk}, {curl}, {httpie}, {jq}, {Postman}, {Python}, {JavaScript},
-{React}, {ReactNative}, {Angular}, {Ethereum}, {Solidity}, HTML 5, CSS
-3, XML, {DevOps}, Continuous Integration, Test Driven Development (TDD),
-Behavior Driven Development (BDD), Integration Testing, Acceptance
-Testing, {JUnit}, {JMock}, {Mockito}, {Jest}, {Mocha}, {Chai},
-{Arquillian}, {Cucumber}, {Selenium}, {Spek}, {Spock}, {JBossEAP} 6+,
-{WildFly} 8+, {Keycloak}, {ApacheTomcat}, {ApacheHTTP}, {Nginx},
-Microsoft {Azure}, Amazon {AWS}, Google Cloud Platform ({GCP}),
-{OpenStack}, {OpenShift}, {Hibernate}, {Spring}, {SpringBoot}, {Vim},
-{Tmux}, {Git}, {Gradle}, {NodeJS}, {npm}, {yarn}, {IntelliJ},
-{VisualStudioCode}, {Jira}, {Jenkins}, {SonarQube}, {Nexus}, {macOS},
-{Fedora}, {RHEL}, {CentOS}, {Ubuntu}, {ArchLinux}.
-
-Trying to deprecated (and using only to maintain existing softwares if needed)::
-{Markdown}, Old versions of JBoss AS and {Tomcat},
-{Struts}, {Ant}, {Maven}, {AngularJS}, {Subversion}, {NetBeans}, {Eclipse}
-Windows, {Debian}, {Fedora}, C/{cpp}, {Pascal}, {Delphi}.
+*Currently using*:
+_Virtualization, containers, cloud platforms and {DevOps}_: Microsoft
+{Azure}, Amazon {AWS}, Google Cloud Platform ({GCP}), {OpenStack},
+{Docker}, {Kubernetes}, {OpenShift}, {Git}, {GitLab}, {GitHub},
+{BitBucket}, {Gradle}, {Nexus}, {Jenkins}, {TravisCI}, {Ansible},
+{VMware}, {VirtualBox}, {KVM}, {Vagrant};
+_Operational systems_: {macOS}, {Fedora}, {RHEL}, {CentOS}, {Ubuntu},
+{ArchLinux};
+_{Agile} Methodologies and practices_: {ExtremeProgramming}, {Scrum},
+{Kanban}, {ContinuousIntegration};
+[[programming-languages]] _Programming languages_: {Java}, {Python},
+{Groovy}, {Kotlin}, {JavaScript}, {TypeScript}, {Ruby};
+_Testing_: {TDD}, {BDD}, {IntegrationTesting}, {AcceptanceTesting},
+{JUnit}, {JMock}, {Mockito}, {Arquillian}, {Cucumber}, {Selenium},
+{Spek}, {Spock}, {Mocha}, {Chai}, {Jest};
+_IDEs_: {IntelliJ}, {VisualStudioCode};
+_Java development frameworks_: {JavaEE}, {Hibernate}, {Spring},
+{SpringBoot};
+_API development_: {Swagger}, {Postman};
+_Web development_: {HTML}, {CSS}, {Sass}, {StyledComponents}, {NodeJS},
+{npm}, {yarn}, {React}, {NextJS}, {Angular}, {Puppeteer}, {Python},
+{Django}, {Jinja}, {WebSocket};
+_Mobile development_: {Kotlin}, {ReactNative};
+_Databases_: {Oracle}, {PostgreSQL}, {MongoDB};
+_Documentation_: {AsciiDoc}, {Asciidoctor_};
+_Command line_: {Bash}, {sed}, {awk}, {curl}, {httpie}, {jq};
+_{Blockchain} development_: {Ethereum}, {Solidity};
+_Configuration languages_: {JSON}, {YAML}, {Dhall};
+_Middleware and Big Data_: {ApacheTomcat}, {JBossEAP}, {WildFly},
+{ApacheHTTP}, {Nginx}, {RabbitMQ}, {Kafka}, {ELKStack},
+{ApacheNifi}, {SpringCloudDataFlow};
+[[security]] _Security_: {OpenSSL}, {GnuPG}, {Passbolt},
+{SpringSecurity}, {OAuth}, {OIDC}, {Keycloak};
+_Tools_: {Vim}, {Tmux}, {Jira}, {SonarQube}; +
+*Studying*:
+{Vyper}, {Go}, {Haskell}, {Rust}; +
+*Turning deprecating (using only to maintain existing
+software if needed)*:
+{XML}, {XSLT}, {Markdown}, Old versions of JBoss AS and {Tomcat},
+{Struts}, {Ant}, {Maven}, {AngularJS}, {Subversion}, {NetBeans},
+{Eclipse}, Windows, {Debian}, {Fedora}, C/{cpp}, {Pascal}, {Delphi}.

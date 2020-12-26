@@ -1,4 +1,4 @@
-icon:calendar[] `August 2011 to June 2012` - Websphere Specialist at IBM::
+*`August 2011 to June 2012` - Websphere Specialist at IBM -*
 I worked in the {IBMWebSphere} team as a consultant/expert in
 {uri-ibm-websphere}[WebSphere Application Server (WAS)] and
 {IBMBusinessMonitor} (used to do Business Activity Monitoring (BAM)).

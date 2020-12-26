@@ -7,12 +7,15 @@ Paulo Jerônimo <pj@paulojeronimo.com>
 :icons: font
 :iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 :linkattrs:
+:idprefix:
+:idseparator: -
 :sectanchors:
 :sectlink:
 :experimental:
 :source-language: asciidoc
 :includedir: _includes
 :attribute-missing: warn
+:nofooter:
 //:case-sensitive-attrs:
 
 include::../uris.adoc[]
@@ -23,8 +26,11 @@ include::../definitions.adoc[]
 ifdef::backend-html5[]
 [NOTE]
 ====
-Download the link:cv.pdf[printable (PDF) version] ({published-cv}/cv.pdf). +
-You can also download the link:cv.txt[plain text (txt) version] ({published-cv}/cv.txt).
+This is my complete CV.
+Download it in link:cv.pdf[printable (PDF) version]. +
+You can also download the link:cv.txt[plain text (txt) version]. +
+You may want to read only link:resume.html[my résumé] or download it in
+link:resume.pdf[PDF format].
 
 This CV is written in {AsciiDoc} format.
 Its source code is available at <<cv,cv repository>> on {my-GitHub-account}.
@@ -37,21 +43,16 @@ endif::[]
 include::personal-details/index.adoc[]
 
 <<<
+include::technical-skills/index.adoc[]
+
+<<<
 include::professional-experience/index.adoc[]
 
 <<<
 include::technical-writing/index.adoc[]
 
 <<<
-include::conferences-and-presentations/index.adoc[]
-
-<<<
 include::education/index.adoc[]
-
-<<<
-include::technical-skills/index.adoc[]
-
-include::certifications/index.adoc[]
 
 <<<
 include::github-repositories/index.adoc[]

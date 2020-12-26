@@ -1,4 +1,5 @@
-icon:calendar[] `February 2015 to September 2015` -  Middleware Specialist at Tecnisys::
+*`February 2015 to September 2015` -  Middleware Specialist at Tecnisys
+-*
 {Tecnisys} is a {RedHat}'s partner. When I was working there, also, an
 {IBM} partner.
 I worked for this employer offering consulting and training services on

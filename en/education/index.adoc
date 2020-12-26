@@ -15,4 +15,13 @@ Bachelor's degree, Computer Science +
 * Portuguese: native language
 * English: fluent (reading); intermediate (speaking, writing)
 
-include::delivered-courses.adoc[leveloffset=+1]
+:leveloffset: +1
+
+include::delivered-courses.adoc[]
+
+<<<
+include::../certifications/index.adoc[]
+
+include::../conferences-and-presentations/index.adoc[]
+
+:leveloffset: -1

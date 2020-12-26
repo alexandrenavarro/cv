@@ -1,4 +1,5 @@
-icon:calendar[] `October 2019 to Present` - Founder at Finisher.Tech::
+[[finishertech]]
+*`October 2019 to Present` - Founder at Finisher.Tech -*
 {FinisherTech} is a personal project where I put my efforts to develop
 software using technologies like *{Blockchain}*, *Artificial
 Intelligence* and *Data Visualization* to produce apps to the wellness

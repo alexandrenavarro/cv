@@ -104,16 +104,22 @@
 :uri-java-se: http://www.oracle.com/technetwork/java/javase/overview/index.html
 :uri-java: {uri-java-se}
 :uri-haskell: https://www.haskell.org/
+:uri-dhall: https://dhall-lang.org/
 :uri-rust: https://www.rust-lang.org/
 :uri-go: https://golang.org/
 :uri-kotlin: https://kotlinlang.org/
 :uri-javascript: https://en.wikipedia.org/wiki/JavaScript
+:uri-typescript: https://www.typescriptlang.org/
 :uri-nodejs: https://nodejs.org
 :uri-kotlin: https://kotlinlang.org/
 :uri-markdown: https://guides.github.com/features/mastering-markdown/
 :uri-asciidoc: http://asciidoctor.org/docs/what-is-asciidoc/
 :uri-php: http://php.net/
 :uri-python: https://www.python.org/
+:uri-ansible: https://www.ansible.com/
+:uri-django: https://www.djangoproject.com/
+:uri-jinja: https://jinja.palletsprojects.com/en/2.11.x/
+:uri-ruby: https://www.ruby-lang.org/en/
 :uri-cobol: https://en.wikipedia.org/wiki/COBOL
 :uri-rmcobol: https://www.microfocus.com/products/rm-cobol/#
 :uri-mbcobol: http://www.microbase.com.br/empresa/empresa_historico.htm
@@ -124,6 +130,7 @@
 :uri-solidity: https://solidity.readthedocs.io/en/develop/
 :uri-vyper: https://vyper.readthedocs.io/en/stable/
 :uri-groovy: http://groovy-lang.org/
+:uri-puppeteer: https://pptr.dev/
 
 // Java Frameworks
 :uri-java-ee: http://www.oracle.com/technetwork/java/javaee/overview/index.html
@@ -147,6 +154,7 @@
 :uri-angularjs: https://angularjs.org/
 :uri-angular: https://angular.io/
 :uri-react: https://reactjs.org/
+:uri-nextjs: https://nextjs.org/
 :uri-react-native: https://reactnative.dev/
 :uri-jest: https://jestjs.io/
 :uri-mocha: https://mochajs.org/
@@ -185,6 +193,7 @@
 :uri-jboss-tools: https://tools.jboss.org/
 // Tools/Continuous Integration
 :uri-jenkins: https://jenkins.io/
+:uri-travis-ci: https://travis-ci.org/
 // Tools/Repository Management
 :uri-nexus: http://www.sonatype.org/nexus/
 // Tools/Static site generators
@@ -250,6 +259,7 @@
 :uri-ms-sql-server: https://www.microsoft.com/en-us/sql-server/sql-server-2016
 // Databases/Other
 :uri-postgresql: https://www.postgresql.org/
+:uri-mongodb: https://www.mongodb.com/
 
 // Courses/Oracle
 :uri-oracle-java-training: https://education.oracle.com/java_training/
@@ -350,3 +360,32 @@
 :uri-httpie: https://httpie.io/
 :uri-jq: https://stedolan.github.io/jq/
 :uri-postman: https://www.postman.com/
+:uri-agile: https://en.wikipedia.org/wiki/Agile_software_development
+:uri-extreme-programming: https://en.wikipedia.org/wiki/Extreme_programming
+:uri-continuous-integration: https://en.wikipedia.org/wiki/Continuous_integration
+:uri-kanban: https://en.wikipedia.org/wiki/Kanban_(development)
+:uri-scrum: https://en.wikipedia.org/wiki/Scrum_(software_development)
+:uri-tdd: https://en.wikipedia.org/wiki/Test-driven_development
+:uri-bdd: https://en.wikipedia.org/wiki/Behavior-driven_development
+:uri-integration-testing: https://en.wikipedia.org/wiki/Integration_testing
+:uri-acceptance-testing: https://en.wikipedia.org/wiki/Acceptance_testing
+:uri-xml: https://www.w3schools.com/xml/
+:uri-xslt: https://www.w3schools.com/xml/xsl_intro.asp
+:uri-html: https://www.w3schools.com/html/
+:uri-css: https://www.w3schools.com/css/
+:uri-sass: https://sass-lang.com/
+:uri-styled-components: https://styled-components.com/
+:uri-json: https://www.json.org/
+:uri-yaml: https://yaml.org/
+:uri-dhall: https://dhall-lang.org/
+:uri-elk-stack: https://www.elastic.co/what-is/elk-stack
+:uri-rabbitmq: https://www.rabbitmq.com/
+:uri-kafka: https://kafka.apache.org/t
+:uri-swagger: https://swagger.io/
+:uri-websocket: https://en.wikipedia.org/wiki/WebSocket
+:uri-oauth: https://en.wikipedia.org/wiki/OAuth
+:uri-oidc: https://en.wikipedia.org/wiki/OpenID_Connect
+:uri-spring-security: https://spring.io/projects/spring-security
+:uri-openssl: https://www.openssl.org/
+:uri-gnupg: https://gnupg.org/
+:uri-passbolt: https://www.passbolt.com/

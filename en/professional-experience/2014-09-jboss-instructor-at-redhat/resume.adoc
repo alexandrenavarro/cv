@@ -1,4 +1,4 @@
-icon:calendar[] `September 2014 to January 2018` - JBoss Instructor at Red Hat::
+*`September 2014 to January 2018` - JBoss Instructor at Red Hat -*
 I worked as a `Red Hat Certified Instructor` ({RHCI}).
 See the list of my delivered training in the topic
 "<<delivered-courses>>".

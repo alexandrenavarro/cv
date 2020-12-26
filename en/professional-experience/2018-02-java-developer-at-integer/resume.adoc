@@ -1,4 +1,4 @@
-icon:calendar[] `February 2018 to February 2019` - Software Developer at Integer::
+*`February 2018 to February 2019` - Software Developer at Integer -*
 Through this company and its partner ({NovaBase}), I worked as an
 architect and software developer for {ThalesGroup} developing solutions
 at

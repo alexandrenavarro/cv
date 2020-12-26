@@ -13,6 +13,7 @@ include::2016-10-senior-consultant-at-redhat/resume.adoc[]
 
 include::2015-10-project-manager-at-cebraspe/resume.adoc[]
 
+<<<
 include::2015-02-middleware-specialist-at-tecnisys/resume.adoc[]
 
 include::2014-09-jboss-instructor-at-redhat/resume.adoc[]
@@ -33,10 +34,4 @@ include::2002-07-java-ee-architect-at-brasil-telecom/resume.adoc[]
 
 include::1999-09-self-employed-at-my-second-company/resume.adoc[]
 
-include::1998-09-software-developer-at-politec-informatica/resume.adoc[]
-
-include::1995-04-self-employed-at-my-first-company/resume.adoc[]
-
-include::1994-04-pascal-programmer-at-fujioka/resume.adoc[]
-
-include::1993-02-cobol-programmer-at-embrace/resume.adoc[]
+include::1993-1999/resume.adoc[]
