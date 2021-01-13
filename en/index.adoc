@@ -1,9 +1,14 @@
 = Paulo Jerônimo's CV
 Paulo Jerônimo <pj@paulojeronimo.com>
 {localdatetime}
+ifdef::backend-pdf[]
+:toc: macro
+endif::[]
+ifdef::backend-html5[]
 :toc-title:
 :toc2:
 :toclevels: 2
+endif::[]
 :icons: font
 :iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 :linkattrs:
@@ -37,6 +42,13 @@ Its source code is available at <<cv,cv repository>> on {my-GitHub-account}.
 If you are looking for a version of this CV written in https://en.wikipedia.org/wiki/Microsoft_Word[Microsoft Word] format: [red]#Sorry, I don't use it!#
 
 ====
+endif::[]
+ifdef::backend-pdf[]
+[.text-center]
+*Online version: {uri-cv}/cv.pdf* +
+Last update: {localdatetime}
+
+toc::[]
 endif::[]
 
 <<<

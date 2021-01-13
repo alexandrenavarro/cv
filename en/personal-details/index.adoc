@@ -42,11 +42,11 @@ Driven Development, {JavaEE} Development and JBoss Administration.
 ****
 
 Contacts::
-icon:phone[] Mobile Phone/WhatsApp: {MyPhone} +
+icon:phone[] Mobile Phone/WhatsApp: {MyPhone} |
 icon:skype[] Skype: {MyID}
 WebSites::
 Active: {MySite},
-https://finisher.tech/slides/projeto.A4.9slides.pdf[Finisher.Tech] +
+https://finisher.tech/slides/projeto.A4.9slides.pdf[Finisher.Tech] |
 Inactive: {uri-ladoservidor}[Lado Servidor]
 Social Media::
 icon:linkedin[] Linkedin: {uri-paulojeronimo-linkedin} +

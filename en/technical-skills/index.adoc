@@ -11,21 +11,21 @@ _Operational systems_: {macOS}, {Fedora}, {RHEL}, {CentOS}, {Ubuntu},
 {ArchLinux};
 _{Agile} Methodologies and practices_: {ExtremeProgramming}, {Scrum},
 {Kanban}, {ContinuousIntegration};
-[[programming-languages]] _Programming languages_: {Java}, {Python},
-{Groovy}, {Kotlin}, {JavaScript}, {TypeScript}, {Ruby};
+[[programming-languages]] _Programming languages_: {Java}, {Groovy},
+{Kotlin}, {JavaScript}, {TypeScript}, {Python}, {Ruby};
 _Testing_: {TDD}, {BDD}, {IntegrationTesting}, {AcceptanceTesting},
 {JUnit}, {JMock}, {Mockito}, {Arquillian}, {Cucumber}, {Selenium},
 {Spek}, {Spock}, {Mocha}, {Chai}, {Jest};
 _IDEs_: {IntelliJ}, {VisualStudioCode};
 _Java development frameworks_: {JavaEE}, {Hibernate}, {Spring},
 {SpringBoot};
-_API development_: {Swagger}, {Postman};
+_API development_: {Swagger}, {Postman}, {GraphQL};
 _Web development_: {HTML}, {CSS}, {Sass}, {StyledComponents}, {NodeJS},
 {npm}, {yarn}, {React}, {NextJS}, {Angular}, {Puppeteer}, {Python},
 {Django}, {Jinja}, {WebSocket};
 _Mobile development_: {Kotlin}, {ReactNative};
 _Databases_: {Oracle}, {PostgreSQL}, {MongoDB};
-_Documentation_: {AsciiDoc}, {Asciidoctor_};
+_Documentation_: {UML}, {AsciiDoc}, {Asciidoctor_};
 _Command line_: {Bash}, {sed}, {awk}, {curl}, {httpie}, {jq};
 _{Blockchain} development_: {Ethereum}, {Solidity};
 _Configuration languages_: {JSON}, {YAML}, {Dhall};
@@ -36,7 +36,7 @@ _Middleware and Big Data_: {ApacheTomcat}, {JBossEAP}, {WildFly},
 {SpringSecurity}, {OAuth}, {OIDC}, {Keycloak};
 _Tools_: {Vim}, {Tmux}, {Jira}, {SonarQube}; +
 *Studying*:
-{Vyper}, {Go}, {Haskell}, {Rust}; +
+{Vyper}, {Scala}, {Go}, {Haskell}, {Rust}; +
 *Turning deprecating (using only to maintain existing
 software if needed)*:
 {XML}, {XSLT}, {Markdown}, Old versions of JBoss AS and {Tomcat},

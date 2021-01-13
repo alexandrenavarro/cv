@@ -34,6 +34,11 @@ Download the link:resume.pdf[printable (PDF) version]. +
 You may want read link:index.html[my complete CV].
 ====
 endif::[]
+ifdef::backend-pdf[]
+[.text-center]
+*Online version: {uri-cv}/resume.pdf* +
+Last update: {localdatetime}
+endif::[]
 
 include::personal-details/index.adoc[]
 

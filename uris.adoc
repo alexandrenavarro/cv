@@ -389,3 +389,6 @@
 :uri-openssl: https://www.openssl.org/
 :uri-gnupg: https://gnupg.org/
 :uri-passbolt: https://www.passbolt.com/
+:uri-uml: https://en.wikipedia.org/wiki/Unified_Modeling_Language
+:uri-scala: https://www.scala-lang.org/
+:uri-graphql: https://graphql.org/
